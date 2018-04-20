@@ -1,20 +1,20 @@
 # Log-Book of 2018 ICPC invitationals
-- author: 
-- date: 
-- round: 
+- author: LETTers
+- date: 2018-04-07 09:00
+- round: 06
 - difficult:
 
 
 | team | solved | penalty | A | B | C | D | E | F | G | H | I | J | K | L | M |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
-| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] |  
-| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | 
+|吴国铭&孙宇辉|3|1136| |-2| | | |-1| | |0| | | | | |  
+|康晟毓&张昊坤|2|98| | | | | |0| | |0| | | | | | 
 
 | member | solved | learned | A | B | C | D | E | F | G | H | I | J | K | L | M |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
-| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] |  
-| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | 
-| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | 
-| [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | [placeholder] | 
+|吴国铭|3|1| | * | | | | * | # | | * | | | | |
+|孙宇辉|0|1| | | | | | | # | | | | | | |
+|康晟毓|0|1| # | | | | | | | | | | | | |
+|张昊坤|2|1| # | | | | | * | | | * | | | | |
 
 
